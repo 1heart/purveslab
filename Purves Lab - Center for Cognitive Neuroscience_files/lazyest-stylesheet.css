@@ -1,0 +1,147 @@
+/* lazyest-stylesheet
+
+Thank you for using Lazyest Stylesheet. 
+
+Enter your style rule changes below.
+
+*/
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.fusection6 {
+    padding: 40px 0px 80px !important;
+}
+}
+.sidebardevn ul li{
+line-height:16px;
+margin-bottom: 12px;
+}
+.home #execphp-_x_system-5110639 .execphpwidget .one_fourth p{
+height:35px !important;
+}
+.widgetdevn ul.arrows_list1 li a {
+line-height: 0px !important;
+}
+article h2 {
+font-size:30px !important;
+}
+
+#container-page-1506_x_system-5110639 .devn-button-center a{
+padding:1px!important;
+}
+.widget_contents-component img{
+border:none !important;
+}
+.no-margin{
+    margin-bottom:0em !important;
+}
+.top-margin{
+    margin-top:20px;
+    }
+#post-2 h3 p{
+padding:20px 0;
+}
+#post-2 img{
+margin-right:10px;
+}
+.clear{
+clear:both;
+}
+.center{
+text-align:center;
+}
+.secbox{
+cursor:default;
+}
+.devn-button{
+border-color:#FF6E41 !important;
+}
+    
+.feature_section22 .secbox{
+padding:7% !important;
+}
+.feature_section22 .secbox i{
+cursor:default;
+}
+#container-page-1506_x_system-7307916 .box1{
+margin-bottom:10px !important;
+}
+#container-page-1506_x_system-5110639 h4{
+color:#ffffff !important;
+}
+
+.tt-wrapper li a:hover{
+background-color: #FF6E41;
+}
+.footer1{
+background: none !important;
+padding: 5px 0px 5px;
+}
+
+.fusection9{
+padding: 40px 0px 40px !important;
+}
+.fusection6{
+    padding: 40px 0px 40px;
+}
+.smaller {
+width:20% !important;
+}
+.small {
+width:45% !important;
+}
+.box1{
+width: 70%;
+margin: auto !important;
+padding-top: 27px;
+border-radius: 2px;
+border: 1px solid #F7F7F7;
+background-color: #F7F7F7;
+}
+.untext{
+text-decoration: none !important;
+padding-bottom:0px !important;
+}
+.tt-wrapper {
+margin: 40px auto 30px !important;
+}
+.footer_social_links.five{
+display:none !important;
+}
+.portfolio_area_left img{
+max-width:60%;
+}
+.project_details{
+display:none !important;
+}
+
+.blog_postcontent .image_frame img{
+width:30% !important;
+}
+h3 a:hover{
+font-size:27px!important;
+color:#FC521D !important;
+font-weight:normal;
+}
+td{
+    border-top:none;
+}
+table{
+    border-bottom:none;
+}
+img.mfp-img{
+    background-color:#ffffff !important;
+}
+#post-1725 .entry-content #content table tbody tr td{
+    vertical-align:top !important;
+}
+/* edits by Jeff 06/09/15*/
+.fusection1 .icon {
+    height: 110px !important;
+    width: 110px !important;
+}
+.fusection1 .icon img{
+margin-top:7px;
+}
+.page-id-1468 .features_sec42.two .devn-post br {
+    display: inline;
+}
+hr {background:none !important;border:1px solid #ccc;color:#ccc;height:inherit;clear:both;}

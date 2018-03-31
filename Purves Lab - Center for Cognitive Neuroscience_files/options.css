@@ -1,0 +1,22 @@
+
+@import url('http://fonts.googleapis.com/css?family=Open+Sans|Open+Sans|verdana|Open+Sans|');
+
+/***
+*
+*	copyright (c) devn.co
+* This file is generated automatically.
+* Please change the value of options in the backend and do not edit here
+*
+***/
+
+@import url('http://purveslab.net/wp-content/themes/hoxa/css/colors/orange.css');
+.limit-width,.layout-boxed,.layout-boxed #header-one-page{max-width:1170px;}
+body{background-color: #EEEEEE;}
+body{background-image: url(http://purveslab.net/wp-content/themes/hoxa/images/patterns/bg1.png);}
+a{text-decoration: default;}
+a:hover{text-decoration: default;}
+body{font-family:'Open Sans';font-size:12px;font-weight:normal;font-style:normal;}
+a:hover, a:active, a:focus{font-family:'Open Sans';font-size:12px;font-weight:bold;font-style:normal;}
+.blog_post h3.entry-title a{font-family:'verdana';}
+h1{font-family:'Open Sans';font-size:40px;font-weight:bold;font-style:normal;}
+h2{font-size:35px;font-style:normal;}
